@@ -8,6 +8,12 @@ The idea here is to make a quick reference "book"
 where we start with the primitives, and, later on, start building
 more complex pipelines.
 
+## Table of contents
+
+## Primitives
+
+- [Creating and using promises](https://github.com/diasbruno/promises-guide/blob/master/creating-promises.md).
+
 # License
 
 MIT (see license.md)
